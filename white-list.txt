@@ -6,6 +6,7 @@
 @@||tiktok.com^
 @@||instagram.com^
 @@||google.com^
+@@||youtube.com^
 
 ! Dịch vụ video
 @@||googlevideo.com^
