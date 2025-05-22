@@ -11,6 +11,7 @@
 ! Dịch vụ video
 @@||googlevideo.com^
 @@||akamaiedge.net^
+@@||tiktokcdn.com^
 
 ! Mua sắm
 @@||shopeemobile.com^
