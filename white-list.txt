@@ -13,5 +13,8 @@
 @@||akamaiedge.net^
 @@||tiktokcdn.com^
 
+!Zalo
+@@||zdn.vn^
+
 ! Mua sắm
 @@||shopeemobile.com^
