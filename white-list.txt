@@ -10,3 +10,6 @@
 ! Dịch vụ video
 @@||googlevideo.com^
 @@||akamaiedge.net^
+
+! Mua sắm
+@@||shopeemobile.com^
