@@ -1,10 +1,10 @@
 ! Mạng xã hội
-@@||facebook.com^$important
-@@||tiktok.com^$important
+@@||facebook.com^
+@@||tiktok.com^
 
 ! Dịch vụ video
-@@||googlevideo.com^$important
-@@||akamaiedge.net^$important
+@@||googlevideo.com^
+@@||akamaiedge.net^
 
 ! Phân tích thị trường
-@@||tradingview.com^$important
+@@||tradingview.com^
