@@ -7,11 +7,22 @@
 @@||instagram.com^
 @@||google.com^
 @@||youtube.com^
+@@||fbcdn.net^
+@@||cdninstagram.com^
+
 
 ! Dịch vụ video
 @@||googlevideo.com^
 @@||akamaiedge.net^
 @@||tiktokcdn.com^
+@@||googleusercontent.com^
+@@||ggpht.com^
+
+! Dịch vụ khác
+@@||cloudfront.net^
+@@||fonts.googleapis.com^
+@@||fonts.gstatic.com^
+@@||cdn.jsdelivr.net^
 
 ! Zalo
 @@||zdn.vn^
