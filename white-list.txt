@@ -23,6 +23,7 @@
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||cdn.jsdelivr.net^
+@@||akamai.net^
 
 ! Zalo
 @@||zdn.vn^
