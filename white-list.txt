@@ -26,6 +26,7 @@
 @@||akamai.net^
 @@||amazonaws.com^
 @@||ytimg.com^
+@@||time.apple.com^
 
 ! Zalo
 @@||zdn.vn^
