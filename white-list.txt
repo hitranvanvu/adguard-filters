@@ -25,6 +25,7 @@
 @@||cdn.jsdelivr.net^
 @@||akamai.net^
 @@||amazonaws.com^
+@@||ytimg.com^
 
 ! Zalo
 @@||zdn.vn^
