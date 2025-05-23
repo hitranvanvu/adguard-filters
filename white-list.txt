@@ -24,6 +24,7 @@
 @@||fonts.gstatic.com^
 @@||cdn.jsdelivr.net^
 @@||akamai.net^
+@@||amazonaws.com^
 
 ! Zalo
 @@||zdn.vn^
