@@ -29,6 +29,7 @@
 @@||time.apple.com^
 @@||fastly.net^
 @@||zadn.vn^
+@@||cloudflare.com^
 
 ! Zalo
 @@||zdn.vn^
