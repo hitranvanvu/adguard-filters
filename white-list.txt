@@ -28,6 +28,7 @@
 @@||ytimg.com^
 @@||time.apple.com^
 @@||fastly.net^
+@@||zadn.vn^
 
 ! Zalo
 @@||zdn.vn^
