@@ -9,6 +9,7 @@
 @@||youtube.com^
 @@||fbcdn.net^
 @@||cdninstagram.com^
+@@||locketcamera.com^
 
 
 ! Dịch vụ video
