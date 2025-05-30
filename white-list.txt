@@ -10,6 +10,7 @@
 @@||fbcdn.net^
 @@||cdninstagram.com^
 @@||locketcamera.com^
+@@||messenger.com^
 
 
 ! Dịch vụ video
