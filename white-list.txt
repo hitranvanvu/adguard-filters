@@ -36,6 +36,8 @@
 @@||cloudflare.com^
 @@||akadns.net^
 @@||piscale.com^
+||csi.gstatic.com^$important
+@@||gstatic.com^
 
 ! Zalo
 @@||zdn.vn^
