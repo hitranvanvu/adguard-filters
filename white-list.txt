@@ -25,7 +25,6 @@
 ! Dịch vụ khác
 @@||cloudfront.net^
 @@||fonts.googleapis.com^
-@@||fonts.gstatic.com^
 @@||cdn.jsdelivr.net^
 @@||akamai.net^
 @@||amazonaws.com^
