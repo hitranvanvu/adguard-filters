@@ -19,7 +19,7 @@
 @@||tiktokcdn.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
-||tiktokv.com^$important
+||mon.tiktokv.com^$important
 @@||tiktokv.com^
 
 ! Dịch vụ khác
