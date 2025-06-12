@@ -19,7 +19,6 @@
 @@||tiktokcdn.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
-||mon.tiktokv.com^$important
 @@||tiktokv.com^
 
 ! Dịch vụ khác
@@ -35,7 +34,6 @@
 @@||cloudflare.com^
 @@||akadns.net^
 @@||piscale.com^
-||csi.gstatic.com^$important
 @@||gstatic.com^
 
 ! Zalo
