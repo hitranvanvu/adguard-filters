@@ -36,6 +36,7 @@
 
 ! Zalo
 @@||zdn.vn^
+@@||chat.zalo.me^
 
 ! Mua sắm
 @@||shopeemobile.com^
