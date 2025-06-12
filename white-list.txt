@@ -19,6 +19,8 @@
 @@||tiktokcdn.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
+||tiktokv.com^$important
+@@||tiktokv.com^
 
 ! Dịch vụ khác
 @@||cloudfront.net^
