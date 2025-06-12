@@ -37,6 +37,7 @@
 @@||akadns.net^
 @@||piscale.com^
 @@||gstatic.com^
+@@||fireant.vn^
 
 ! Zalo
 @@||zdn.vn^
