@@ -20,6 +20,7 @@
 @@||googleusercontent.com^
 @@||ggpht.com^
 @@||tiktokv.com^
+@@||windowsupdate.com^
 
 ! Dịch vụ khác
 @@||cloudfront.net^
