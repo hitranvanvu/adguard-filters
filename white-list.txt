@@ -35,6 +35,7 @@
 @@||zadn.vn^
 @@||cloudflare.com^
 @@||akadns.net^
+@@||piscale.com^
 
 ! Zalo
 @@||zdn.vn^
