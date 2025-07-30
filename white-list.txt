@@ -49,3 +49,7 @@
 
 ! CRM
 @@||getfly.vn^
+@@||grab.com
+@@||grabtaxi.com
+@@||shopee.vn
+@@||shopee.sg
