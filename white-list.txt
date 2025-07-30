@@ -53,3 +53,4 @@
 @@||grabtaxi.com
 @@||shopee.vn
 @@||shopee.sg
+@@||shopeelike.com
