@@ -1,5 +1,6 @@
 ! Phân tích thị trường
 @@||tradingview.com^
+@@||vndirect.com.vn
 
 ! Mạng xã hội
 @@||facebook.com^
