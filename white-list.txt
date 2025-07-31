@@ -93,7 +93,7 @@
 @@||givefreely.com^
 @@||cdn.givefreely.com^
 @@||api-v2.zingplay.me^
-@@||apps-284729173246696.apps.fbsbx.com^
+@@||fbsbx.com^
 
 @@||firebase.googleapis.com^
 @@||firestore.googleapis.com^
@@ -105,11 +105,9 @@
 @@||digicert.com^
 @@||github.com^
 
-@@||checkip.amazonaws.com^
 @@||recaptcha.net^
 @@||locketcamera.com^
 @@||api.locketcamera.com^
-@@||2lyusxedjmq.api.piscale.com^
 @@||piscale.com^
 @@||zadn.vn^
 @@||zdn.vn^
