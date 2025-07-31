@@ -1,3 +1,4 @@
+@@||tradingview.com^
 @@||vndirect.com.vn
 @@||fireant.vn^
 @@||restv2.fireant.vn^
@@ -5,9 +6,6 @@
 @@||price-streaming-api.vndirect.com.vn^
 @@||exmarkets.guide^
 @@||exness.com^
-@@||tradingview.com^
-@@||data.tradingview.com^
-@@||news-mediator.tradingview.com^
 
 @@||facebook.com^
 @@||messenger.com^
