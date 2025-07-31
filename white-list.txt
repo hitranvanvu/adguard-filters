@@ -1,6 +1,5 @@
 @@||tradingview.com^
 @@||vndirect.com.vn
-
 @@||facebook.com^
 @@||tiktok.com^
 @@||instagram.com^
@@ -10,7 +9,6 @@
 @@||cdninstagram.com^
 @@||locketcamera.com^
 @@||messenger.com^
-
 @@||googlevideo.com^
 @@||akamaiedge.net^
 @@||tiktokcdn.com^
@@ -18,7 +16,6 @@
 @@||ggpht.com^
 @@||tiktokv.com^
 @@||windowsupdate.com^
-
 @@||recaptcha.net^
 @@||exmarkets.guide^
 @@||exness.com^
@@ -49,12 +46,9 @@
 @@||piscale.com^
 @@||gstatic.com^
 @@||fireant.vn^
-
 @@||zdn.vn^
 @@||chat.zalo.me^
-
 @@||shopeemobile.com^
-
 @@||salework.net^
 @@||getfly.vn^
 @@||grab.com^
@@ -62,7 +56,6 @@
 @@||shopee.vn^
 @@||shopee.sg^
 @@||shopeelike.com^
-
 @@||2lyusxedjmq.api.piscale.com^
 @@||accounts.google.com^
 @@||accounts.youtube.com^
@@ -87,7 +80,6 @@
 @@||ep2.facebook.com^
 @@||ep7.facebook.com^
 @@||firestore.googleapis.com^
-@@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||gae2-spclient.spotify.com^
 @@||gateway.facebook.com^
@@ -95,7 +87,6 @@
 @@||gateway.icloud.com^
 @@||gateway.instagram.com^
 @@||gdmf.apple.com^
-@@||google.com^
 @@||graph.facebook.com^
 @@||gs-loc.apple.com^
 @@||gs-loc.ls-apple.com.akadns.net^
@@ -149,7 +140,6 @@
 @@||static.xx.fbcdn.net^
 @@||taskassist-pa.googleapis.com^
 @@||telemetry.tradingview.com^
-@@||time.apple.com^
 @@||tt-group-wpa.chat.zalo.me^
 @@||usp.org^
 @@||waa-pa.clients6.google.com^
@@ -157,8 +147,6 @@
 @@||whoami.akamai.net^
 @@||www.facebook.com^
 @@||www.google.com^
-@@||www.googleapis.com^
-@@||www.gstatic.com^
 @@||www.messenger.com^
 @@||www.youtube.com^
 @@||xp.apple.com^
