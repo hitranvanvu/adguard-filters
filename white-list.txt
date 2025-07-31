@@ -19,7 +19,9 @@
 @@||tiktokv.com^
 @@||windowsupdate.com^
 
-
+@@||recaptcha.net^
+@@||exmarkets.guide^
+@@||exness.com^
 @@||storage.googleapis.com^
 @@||gmail.com^
 @@||lcdn-locator.apple.com^
