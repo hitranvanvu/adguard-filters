@@ -1,8 +1,6 @@
-! Phân tích thị trường
 @@||tradingview.com^
 @@||vndirect.com.vn
 
-! Mạng xã hội
 @@||facebook.com^
 @@||tiktok.com^
 @@||instagram.com^
@@ -13,8 +11,6 @@
 @@||locketcamera.com^
 @@||messenger.com^
 
-
-! Dịch vụ video
 @@||googlevideo.com^
 @@||akamaiedge.net^
 @@||tiktokcdn.com^
@@ -23,7 +19,6 @@
 @@||tiktokv.com^
 @@||windowsupdate.com^
 
-! Dịch vụ khác
 @@||cloudfront.net^
 @@||fonts.googleapis.com^
 @@||www.googleapis.com^
@@ -40,14 +35,11 @@
 @@||gstatic.com^
 @@||fireant.vn^
 
-! Zalo
 @@||zdn.vn^
 @@||chat.zalo.me^
 
-! Mua sắm
 @@||shopeemobile.com^
 
-! CRM
 @@||getfly.vn^
 @@||grab.com^
 @@||grabtaxi.com^
