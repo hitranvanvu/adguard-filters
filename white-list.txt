@@ -20,23 +20,10 @@
 
 @@||google.com^
 @@||accounts.youtube.com^
-@@||content-autofill.googleapis.com^
-@@||fonts.googleapis.com^
-@@||fonts.gstatic.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
 @@||gmail.com^
 @@||gstatic.com^
-@@||identitytoolkit.googleapis.com^
-@@||lh3.googleusercontent.com^
-@@||notifications-pa.googleapis.com^
-@@||oauth2.googleapis.com^
-@@||oauthaccountmanager.googleapis.com^
-@@||optimizationguide-pa.googleapis.com^
-@@||people-pa.googleapis.com^
-@@||play.googleapis.com^
-@@||storage.googleapis.com^
-@@||www.googleapis.com^
 
 @@||bag.itunes.apple.com^
 @@||configuration.ls.apple.com^
