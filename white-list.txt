@@ -66,7 +66,6 @@
 @@||content-autofill.googleapis.com^
 @@||data.tradingview.com^
 @@||dgw.c10r.facebook.com^
-@@||dns.tranvanvu.com^
 @@||docs.google.com^
 @@||edge-mqtt.facebook.com^
 @@||ep2.facebook.com^
