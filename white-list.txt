@@ -64,7 +64,6 @@
 @@||api.locketcamera.com^
 @@||apps-284729173246696.apps.fbsbx.com^
 @@||bag.itunes.apple.com^
-@@||chat-e2ee.facebook.com^
 @@||chatgpt.com^
 @@||checkip.amazonaws.com^
 @@||clients2.google.com^
@@ -74,20 +73,14 @@
 @@||configuration.ls.v.aaplimg.com^
 @@||content-autofill.googleapis.com^
 @@||data.tradingview.com^
-@@||dgw.c10r.facebook.com^
 @@||docs.google.com^
-@@||edge-mqtt.facebook.com^
-@@||ep2.facebook.com^
-@@||ep7.facebook.com^
 @@||firestore.googleapis.com^
 @@||fonts.gstatic.com^
 @@||gae2-spclient.spotify.com^
-@@||gateway.facebook.com^
 @@||gateway.fe2.apple-dns.net^
 @@||gateway.icloud.com^
 @@||gateway.instagram.com^
 @@||gdmf.apple.com^
-@@||graph.facebook.com^
 @@||gs-loc.apple.com^
 @@||gs-loc.ls-apple.com.akadns.net^
 @@||gsp-ssl.ls.apple.com^
@@ -100,7 +93,6 @@
 @@||mail.google.com^
 @@||mcd-gateway.grabtaxi.com^
 @@||mesu.apple.com^
-@@||mqtt.c10r.facebook.com^
 @@||news-mediator.tradingview.com^
 @@||notifications-pa.googleapis.com^
 @@||notiv2.vndirect.com.vn^
