@@ -21,13 +21,8 @@
 @@||www.messenger.com^
 
 @@||google.com^
-@@||accounts.google.com^
 @@||accounts.youtube.com^
-@@||clients2.google.com^
-@@||clients3.google.com^
-@@||clients4.google.com^
 @@||content-autofill.googleapis.com^
-@@||docs.google.com^
 @@||fonts.googleapis.com^
 @@||fonts.gstatic.com^
 @@||googleusercontent.com^
@@ -35,20 +30,14 @@
 @@||gmail.com^
 @@||gstatic.com^
 @@||identitytoolkit.googleapis.com^
-@@||inbox.google.com^
 @@||lh3.googleusercontent.com^
-@@||mail.google.com^
 @@||notifications-pa.googleapis.com^
 @@||oauth2.googleapis.com^
 @@||oauthaccountmanager.googleapis.com^
-@@||ogads-pa.clients6.google.com^
 @@||optimizationguide-pa.googleapis.com^
 @@||people-pa.googleapis.com^
-@@||play.google.com^
 @@||play.googleapis.com^
-@@||safebrowsing.google.com^
 @@||storage.googleapis.com^
-@@||www.google.com^
 @@||www.googleapis.com^
 
 @@||bag.itunes.apple.com^
