@@ -6,8 +6,10 @@
 @@||price-streaming-api.vndirect.com.vn^
 @@||exmarkets.guide^
 @@||exness.com^
+@@||exness.io^
 
 @@||facebook.com^
+@@||fbcdn.net^
 @@||messenger.com^
 @@||chat.zalo.me^
 @@||chatgpt.com^
@@ -20,6 +22,7 @@
 
 @@||google.com^
 @@||clientservices.googleapis.com^
+@@||oauthaccountmanager.googleapis.com^
 @@||accounts.youtube.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
@@ -30,6 +33,8 @@
 @@||configuration.ls.apple.com^
 @@||configuration.ls.v.aaplimg.com^
 @@||gdmf.apple.com^
+@@||push.apple.com^
+@@||weatherkit.apple.com^
 @@||gs-loc.apple.com^
 @@||gs-loc.ls-apple.com.akadns.net^
 @@||gsp-ssl.ls.apple.com^
