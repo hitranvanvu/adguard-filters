@@ -23,6 +23,7 @@
 @@||google.com^
 @@||clientservices.googleapis.com^
 @@||oauthaccountmanager.googleapis.com^
+@@||fonts.googleapis.com^
 @@||accounts.youtube.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
@@ -58,6 +59,7 @@
 @@||tiktok.com^
 @@||tiktokcdn.com^
 @@||tiktokv.com^
+@@||tiktokrow-cdn.com^
 
 @@||shopee.vn^
 @@||shopee.sg^
@@ -73,6 +75,7 @@
 @@||givefreely.com^
 @@||cdn.givefreely.com^
 @@||api-v2.zingplay.me^
+@@||pay.zing.vn^
 @@||fbsbx.com^
 
 @@||firebase.googleapis.com^
@@ -84,6 +87,8 @@
 @@||whoami.akamai.net^
 @@||digicert.com^
 @@||github.com^
+@@||cdn77.org^
+@@||cdn20.com^
 
 @@||recaptcha.net^
 @@||locketcamera.com^
