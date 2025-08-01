@@ -19,6 +19,7 @@
 @@||www.messenger.com^
 
 @@||google.com^
+@@||clientservices.googleapis.com^
 @@||accounts.youtube.com^
 @@||googleusercontent.com^
 @@||ggpht.com^
