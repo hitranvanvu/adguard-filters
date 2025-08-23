@@ -99,6 +99,7 @@
 @@||amazonaws.com^
 @@||momoapp.vn^
 @@||momocdn.net^
+@@||appsflyersdk.com^
 
 @@||recaptcha.net^
 @@||locketcamera.com^
