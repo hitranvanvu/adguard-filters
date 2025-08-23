@@ -58,6 +58,7 @@
 
 @@||youtube.com^
 @@||googlevideo.com^
+@@||susercontent.com^
 @@||ytimg.com^
 @@||i.ytimg.com^
 @@||www.youtube.com^
