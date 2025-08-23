@@ -9,6 +9,9 @@
 @@||exness.io^
 @@||visa.com^
 @@||digitalcardservice.com^
+@@||liobank.vn^
+@@||zalopay.vn^
+@@||momo.vn^
 
 @@||facebook.com^
 @@||fbcdn.net^
@@ -93,6 +96,9 @@
 @@||cdn77.org^
 @@||cdn20.com^
 @@||cloudflare.net^
+@@||amazonaws.com^
+@@||momoapp.vn^
+@@||momocdn.net^
 
 @@||recaptcha.net^
 @@||locketcamera.com^
