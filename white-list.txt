@@ -53,7 +53,7 @@
 @@||ocsp2.apple.com^
 @@||token.safebrowsing.apple^
 @@||xp.apple.com^
-@@||gateway.fe2.apple-dns.net^
+@@||apple-dns.net^
 @@||gateway.icloud.com^
 
 @@||youtube.com^
@@ -101,6 +101,9 @@
 @@||momoapp.vn^
 @@||momocdn.net^
 @@||appsflyersdk.com^
+@@||akadns.net^
+@@||cloudflare-dns.com^
+
 
 @@||recaptcha.net^
 @@||locketcamera.com^
