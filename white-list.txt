@@ -7,6 +7,8 @@
 @@||exmarkets.guide^
 @@||exness.com^
 @@||exness.io^
+@@||visa.com^
+@@||digitalcardservice.com^
 
 @@||facebook.com^
 @@||fbcdn.net^
@@ -90,6 +92,7 @@
 @@||github.com^
 @@||cdn77.org^
 @@||cdn20.com^
+@@||cloudflare.net^
 
 @@||recaptcha.net^
 @@||locketcamera.com^
