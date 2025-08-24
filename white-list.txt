@@ -110,6 +110,7 @@
 @@||cloudflare-dns.com^
 @@||akamaihd.net^
 @@||fastly.net^
+@@||fastly-edge.com^
 
 
 @@||recaptcha.net^
