@@ -105,6 +105,7 @@
 @@||appsflyersdk.com^
 @@||akadns.net^
 @@||cloudflare-dns.com^
+@@||akamaihd.net^
 
 
 @@||recaptcha.net^
