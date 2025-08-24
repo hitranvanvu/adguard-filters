@@ -106,6 +106,7 @@
 @@||akadns.net^
 @@||cloudflare-dns.com^
 @@||akamaihd.net^
+@@||fastly.net^
 
 
 @@||recaptcha.net^
