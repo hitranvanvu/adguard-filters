@@ -39,6 +39,7 @@
 @@||gstatic.com^
 
 @@||bag.itunes.apple.com^
+@@||safebrowsing.apple^
 @@||configuration.ls.apple.com^
 @@||configuration.ls.v.aaplimg.com^
 @@||gdmf.apple.com^
