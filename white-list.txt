@@ -101,6 +101,8 @@
 @@||whoami.akamai.net^
 @@||digicert.com^
 @@||github.com^
+@@||githubusercontent.com^
+@@||githubassets.com^
 @@||cdn77.org^
 @@||cdn20.com^
 @@||cloudflare.net^
@@ -110,6 +112,7 @@
 @@||appsflyersdk.com^
 @@||akadns.net^
 @@||cloudflare-dns.com^
+@@||cloudflare.com^
 @@||akamaihd.net^
 @@||fastly.net^
 @@||fastly-edge.com^
