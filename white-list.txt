@@ -17,6 +17,7 @@
 @@||rofilm.net^
 @@||nutscdn.com^
 @@||netflix.com^
+@@||nflxvideo.net^
 @@||nflxso.net^
 
 @@||facebook.com^
