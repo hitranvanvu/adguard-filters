@@ -59,6 +59,7 @@
 @@||xp.apple.com^
 @@||apple-dns.net^
 @@||gateway.icloud.com^
+@@||time.apple.com^
 
 @@||youtube.com^
 @@||googlevideo.com^
