@@ -59,6 +59,7 @@
 @@||init.ess.apple.com^
 @@||mesu.apple.com^
 @@||ocsp2.apple.com^
+@@||weather-edge.apple.com^
 @@||token.safebrowsing.apple^
 @@||xp.apple.com^
 @@||apple-dns.net^
