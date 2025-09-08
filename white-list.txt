@@ -122,6 +122,7 @@
 @@||akamaihd.net^
 @@||fastly.net^
 @@||fastly-edge.com^
+@@||goatembed.com^
 
 
 @@||recaptcha.net^
