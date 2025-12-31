@@ -10,7 +10,6 @@
 @@||visa.com^
 @@||digitalcardservice.com^
 @@||liobank.vn^
-@@||zalopay.vn^
 @@||momo.vn^
 @@||rophim.me^
 @@||rophimapi.net^
